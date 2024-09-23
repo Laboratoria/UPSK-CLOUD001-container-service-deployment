@@ -113,8 +113,8 @@ aplicación en un repositorio de Amazon ECR.
 El siguiente paso es entonces desplegar la imagen docker
 en cluster de instancias EC2 usando Amazon ECS (Elastic Container Service).
 
-Tómate un tiempo para familiarizarte con ECS. Puedes seguir el
-[workshop oficial de ECS](https://ecsworkshop.com/introduction/)
+Tómate un tiempo para familiarizarte con ECS. Puedes seguir este
+[tutorial](https://dev.to/aws-builders/deploy-nginx-image-by-creating-an-aws-ecs-cluster-with-an-ec2-launch-type-nb5)
 o cualquier otro disponible en internet. Asegúrate que al final tengas respuestas
 claras para las siguientes preguntas:
 
